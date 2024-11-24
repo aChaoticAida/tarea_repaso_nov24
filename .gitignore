@@ -1,0 +1,5 @@
+# Ignorar el archivo de configuración local 
+local_config/
+# Ignorar también
+*.tmp
+*.env
